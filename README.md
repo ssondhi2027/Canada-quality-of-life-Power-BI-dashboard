@@ -1,6 +1,4 @@
 # Canada-quality-of-life-Power-BI-dashboard
-# Canada Quality of Life Power BI Dashboard
-
 ## Overview
 
 This project presents an interactive **Power BI dashboard** built using **Statistics Canada** data to analyze and visualize Canada’s **Quality of Life (QoL) Framework**. The dashboard provides a comprehensive, data-driven view of national well-being by integrating indicators across **Society, Prosperity, Health, Governance, and Environment**.
